@@ -1,0 +1,5 @@
+streamlit 
+pytorch
+numpy
+albumentations
+PIL
